@@ -15,7 +15,12 @@
 
 ---
 
-## ASCII Notes
+## My Notes
+![Notes of day 4](Python_Day4(1).jpeg)
+
+
+![Code](Python_Day4(2).jpeg)
+
 
 Character → ASCII
 ord('A') = 65
